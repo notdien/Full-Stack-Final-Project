@@ -1,0 +1,54 @@
+.title {
+    color: white;
+    height: 80%;
+    width: 100%;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+}
+
+.top-form {
+    color: white;
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: center;
+}
+
+.box-child-1 {
+    height: 40px;
+    width: 85%;
+    float: left;
+}
+
+.box-child-2 {
+    height: 40px;
+    width: 15%;
+    float: right;
+}
+
+.box-child-1, .box-child-2 {
+    border-radius: 10px;
+}
+
+.search-btn {
+    margin-top: 5px;
+    width: 100px;
+    height: 40px;
+    border-radius: 15px;
+}
+
+.search-btn:hover {
+    background-color: lightblue;
+}
+
+.search-results {
+    color: white;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.search-results li {
+    color: white;
+}

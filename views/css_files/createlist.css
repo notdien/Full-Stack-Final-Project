@@ -1,0 +1,24 @@
+.center-box {
+    /* border: 1px solid white; */
+    color: white;
+    margin: 80px;
+    margin-top: 150px;
+    /* position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+}
+
+#submit {
+    margin-top: 20px;
+}
+
+#mydiv {
+    color: white;
+    margin: 80px;
+}
+
+#info {
+    color: white;
+    margin-top: 50px;
+}
